@@ -66,3 +66,23 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+
+&nbsp;
+
+> _This repository constitutes the frontend of the Firt React (MERN) project._
+
+&nbsp;
+
+> > ## Backend
+
+### react_fr_back.
+
+&nbsp;
+
+> ## **powered by**
+
+&nbsp;
+
+[![mecanizados|aac](src/assets/aldo_castillo_mecanizados.jpg)](github.com/mecanizados-aac/)
